@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aurora23134
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning html/css
+- 🌱 I’m currently learning Javascript & php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
